@@ -1,0 +1,18 @@
+{
+    "name": "com.psygames.UnityWebSocket",
+    "version": "0.1.0",
+    "displayName": "Unity Websocket Plugin",
+    "description": "Websocket plugin from psygames, forked by Alex Meesters",
+    "unity": "2020.1",
+    "documentationUrl": "https://github.com/AlexMeesters/UnityWebSocket",
+    "changelogUrl": "https://github.com/AlexMeesters/UnityWebSocket",
+    "licensesUrl": "https://github.com/AlexMeesters/UnityWebSocket/blob/master/LICENSE",
+   "keywords": [
+      "Websocket"
+    ],
+    "author": {
+      "name": "psygames",
+      "email": "",
+      "url": ""
+    }
+}
